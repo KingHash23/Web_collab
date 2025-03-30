@@ -1,0 +1,22 @@
+{
+  "calvin@gmail.com": {
+    "name": "Calvin",
+    "password": "$2b$10$pjhiuMjJQXQMx.HxZFEPKuJyYHPxBKz0P65kQ/lwD6rYi38nySf5C"
+  },
+  "obba@yahoo.com": {
+    "name": "Obba Mark Calvin",
+    "password": "$2b$10$Jf5/h3nKm8gcOFTItQOAmOoesyg79lkiJmXvXMfaPR.9Zr3NwG5.C"
+  },
+  "peter@gmail.com": {
+    "name": "Peter Paul",
+    "password": "$2b$10$fy4/jxcocOXa/TDOs5qokOF8TI5bYMYxkzrB.6AKW6TTO1A1pcd0m"
+  },
+  "mark@gmail.com": {
+    "name": "Mark Peter",
+    "password": "$2b$10$5zqQPanmi0XhxlO5zBMYS.209IbueIuabtovJEDDmtFLy1k6sWQ3q"
+  },
+  "markx@gmail.com": {
+    "name": "markx",
+    "password": "$2b$10$65Vu1U3B3pCDS5b6tl8lheLszX5DwSyeHYpQT1kOHNcZOvWUaetcC"
+  }
+}
